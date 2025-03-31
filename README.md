@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @Joseph-Bostok
-- 👀 I’m interested in AI and Machine learning.
-- 🌱 I’m currently a student at UNCC studying software development. 
-- 💞️ I’m looking to collaborate on any fun external project built around neural networks. I would like to develop skills that will help me work with these systems.
-- 📫 How to reach me: joseph.bostok1@gmail.com
-- I will be posting my personal projects, alongside school projects to track my progress as I build my coding skills.
+👋 Hi there, I’m Joey
 
-<!---
-Joseph-Bostok/Joseph-Bostok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science Master's student at UNC Charlotte, focusing on AI and High-Performance Computing.
+🧠 Passionate about building tools that solve real-world problems, especially in mental health, education, and automation.
+💻 I work with technologies like Python, React, Node.js, C++, and I'm always exploring new stacks.
+🔧 What I'm Working On:
+
+    🧬 Mental health support apps using AI and LLMs
+
+    ⚙️ Social media bots that summarize and share key info
+
+    📊 Tools that streamline clinician workflows
+
+🌱 Currently Learning:
+
+    Kubernetes, Docker, and DevOps workflows
+
+    Advanced computer vision and model deployment
+
+    Efficient data processing for large-scale applications
